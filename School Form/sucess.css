@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 217, 0);
+    
+}
+
+h1{
+    font-family: cursive;
+    letter-spacing: -8px;
+    font-size: 100px;
+    margin-top: -88px;
+    color: rgb(99, 9, 99);
+}
+h3{
+    font-family: cursive;
+    letter-spacing: -8px;
+    font-size: 70px;
+   
+    color: rgb(99, 9, 99);
+}

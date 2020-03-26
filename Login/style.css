@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(240, 215, 236);
+    font-family: cursive;
+}
+
+#cent {
+    background-color: white;
+    border-radius: 10px;
+    height: 300px;
+    width: 380px;
+    margin: auto;
+    margin-top: 160px;
+    box-shadow: 0px 7px 15px rgb(204, 194, 194);
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(99, 9, 99);
+    margin-top: -39px;
+    letter-spacing: -2px;
+    margin-bottom: 30px;
+    
+}
+
+
+
+input[type=number] {
+    border-radius: 200px;
+    width: 300px;
+    border: 2px solid rgb(99, 9, 99);
+    height: 20px;
+    padding: 10px 14px 10px 10px;
+    font-family: cursive;
+    font-size: 20px;
+    color: rgb(99, 9, 99);
+    margin-bottom: 10px;
+
+}
+
+input[type=password] {
+    border-radius: 200px;
+    width: 300px;
+    border: 2px solid rgb(99, 9, 99);
+    height: 20px;
+    padding: 10px 14px 10px 10px;
+    font-family: cursive;
+    font-size: 20px;
+    color: rgb(99, 9, 99);
+    margin-bottom: 10px;
+
+}
+
+input::placeholder {
+    color: rgb(99, 9, 99);
+    font-family: cursive;
+    font-size: 20px;
+    padding: 15px 10px 10px 10px;
+}
+
+button[type=submit] {
+    border-radius: 200px;
+    border-style: none;
+    background-color: rgb(255, 12, 12);
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+    margin-top: 10px;
+}
+
+input:focus {
+    outline: none;
+}
+
+#circle{
+    border-radius: 2px solid red;
+    width: 50px;
+    background-color: red;
+    height: 50px;
+    border-radius: 200px;
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 360px;
+}
+
